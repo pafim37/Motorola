@@ -1,11 +1,11 @@
 name | date | guessing_time [s] | guessing_tries |
 one | 21.11.2020 15:08:28 | 1,0 | LIMA
 two | 21.11.2020 15:08:49 | 2,0 | LONDON
-three | 21.11.2020 15:12:08 | 3,0 | KABUL
+pawel | 21.11.2020 15:12:08 | 3,7 | KABUL
 four | 21.11.2020 15:13:11 | 5,0 | KUWAIT CITY
 five | 21.11.2020 13:53:44 | 10,0 | BUJUMBURA
 six | 21.11.2020 13:53:44 | 20,0 | Tirana
-example | 21.11.2020 21:50:33 | 26,614 | DUBLIN
-Klaudia z UJ | 22.11.2020 14:12:15 | 64,714 | DODOMA
-klaudia | 22.11.2020 14:10:34 | 124,841 | BELGRADE
-Klaudia z Samorzadu Studentow UJ | 22.11.2020 14:15:20 | 134,96 | PARAMARIBO
+pawel | 21.11.2020 21:50:33 | 37,0 | DUBLIN
+eight | 21.11.2020 13:53:44 | 100,0 | Bogota
+nine | 21.11.2020 13:53:44 | 200,0 | San Jose
+ten | 21.11.2020 13:53:44 | 500,0 | Dhaka 
